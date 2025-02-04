@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to the Lab Upstairs GitHub organization page! 🌈
+
 <!--
 
 **Here are some ideas to get you started:**
