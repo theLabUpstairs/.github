@@ -1,14 +1,20 @@
-## Hi there 👋
 
-Welcome to the Lab Upstairs GitHub organization page! 🌈
+# Welcome to the Lab Upstairs GitHub organization page! 🌈
 
-<!--
+**Anaerobic protist biology · Microbial ecology · Comparative genomics**
 
-**Here are some ideas to get you started:**
+We study microorganisms that thrive in low-oxygen environments — investigating their metabolic
+adaptations, evolutionary origins, and interactions with prokaryotic partners. Based at the
+Department of Cell and Molecular Biology, Uppsala University, led by [Courtney W. Stairs](https://thelabupstairs.online/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Research themes**
+- Genomics and evolution of anaerobic eukaryotes
+- Protist–prokaryote metabolic interactions (syntrophy)
+- Long-read sequencing and comparative genomics
+
+Current focus: **BREATHLESS MICROBES** — biology of protists in expanding oceanic
+low-oxygen zones (Wallenberg Academy Fellowship)
+
+---
+
+🌐 [thelabupstairs.online](https://thelabupstairs.online/)
